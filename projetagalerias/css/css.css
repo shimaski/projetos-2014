@@ -1,0 +1,73 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+	padding: 0px;
+
+
+
+
+
+
+
+
+
+
+}
+div#geral {
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 690px;
+
+}
+div#geral div#topo {
+	width: 990px;
+	height: 200px;
+}
+div#geral div#topo div#banner {
+	height: 200px;
+	width: 790px;
+	float: left;
+	background-image: url(../imagens/estruturas/banner.jpg);
+}
+div#geral div#topo div#logo {
+	height: 200px;
+	width: 200px;
+	float: left;
+	background-image: url(../imagens/estruturas/logo.jpg);
+}
+
+div#geral div#menu {
+	height: 60px;
+	width: 990px;
+	background-image: url(../imagens/estruturas/menu.jpg);
+	background-repeat: no-repeat;
+	float: left;
+}
+
+div#geral div#conteudo  {
+	width: 990px;
+	background-color: #0F6;
+	float: left;
+	height: 690px;
+}
+div#geral div#conteudo ol {
+	text-align: center;
+	list-style-type: none;
+	width: 900px;
+	margin-right: 45px;
+	margin-left: 45px;
+}
+div#geral div#conteudo ol li {
+	float: left;
+	width: 120px;
+	height: 120px;
+	margin: 30px;
+}
+
+
+div#geral div#rodape {
+	width: 990px;
+	float: left;
+	background-image: url(../imagens/estruturas/rodape.jpg);
+}

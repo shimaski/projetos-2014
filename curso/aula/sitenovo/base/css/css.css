@@ -1,0 +1,111 @@
+@charset "utf-8";
+@font-face {
+	font-family: 'Conv_neuropolitical rg';
+	src: url('../fonts/neuropolitical rg.eot');
+	src: local('☺'), url('../fonts/neuropolitical rg.woff') format('woff'), url('../fonts/neuropolitical rg.ttf') format('truetype'), url('../fonts/neuropolitical rg.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_blue highway linocut';
+	src: url('../fonts/blue highway linocut.eot');
+	src: local('☺'), url('../fonts/blue highway linocut.woff') format('woff'), url('../fonts/blue highway linocut.ttf') format('truetype'), url('../fonts/blue highway linocut.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Conv_JaspersHandwriting';
+	src: url('../fonts/JaspersHandwriting.eot');
+	src: local('☺'), url('../fonts/JaspersHandwriting.woff') format('woff'), url('../fonts/JaspersHandwriting.ttf') format('truetype'), url('../fonts/JaspersHandwriting.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+div#geral {
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 690px;
+
+}
+div#geral div#topo {
+	width: 990px;
+	height: 200px;
+}
+div#geral div#topo div#banner {
+	height: 200px;
+	width: 790px;
+	float: left;
+	background-image: url(../imagens/banner.jpg);
+}
+div#geral div#topo div#logo {
+	height: 200px;
+	width: 200px;
+	float: left;
+	background-image: url(../imagens/logo.jpg);
+}
+
+div#geral div#menu {
+	height: 60px;
+	width: 990px;
+	background-image: url(../imagens/menu.jpg);
+	float: left;
+}
+
+div#geral div#conteudo  {
+	width: 990px;
+	background-color: #0F6;
+	float: left;
+	text-align: center;
+	color: #000;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	height: 890px;
+}
+div#geral div#conteudo p {
+	font-family: "Conv_blue highway linocut";
+	font-size: 20px;
+	text-align: justify;
+	margin: 10px;
+	font-style: italic;
+	color: #03F;
+	padding: 2px;
+}
+div#geral div#conteudo h1 {
+	font-family:'Conv_neuropolitical rg',Sans-Serif;
+	text-align: center;
+	padding: 20px;
+	margin: 25px;
+	font-size: 36px;
+	font-style: italic;
+	color: #00F;
+	text-decoration: underline;
+}
+
+
+div#geral div#rodape {
+	width: 990px;
+	float: left;
+	background-image: url(../imagens/rodape.jpg);
+	height: 60px;
+	background-repeat: no-repeat;
+}
+div#geral div#rodape h2 {
+	text-align: center;
+	font-family: 'Conv_JaspersHandwriting';
+	font-size: 12px;
+	color: #0F0;
+	font-style: italic;
+}
+div#geral div#rodape p {
+	text-align: center;
+	font-family: "Conv_JaspersHandwriting";
+	font-size: 12px;
+	color: #0F6;
+	font-style: italic;
+}

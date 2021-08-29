@@ -1,0 +1,15 @@
+cena é o conjunto todo
+
+placo é area a ser trabalhada
+
+[o] quadro chave vazio (f7) no chave em branco
+[.] quadro chave  criar (F6) cria um quadro com o ultimo quadro chave
+[] quadro final cria (f5) final de animação
+
+ o flash trabalha com imagem vetoria (imagem por numero)
+ extensão .fla
+
+ o arquivo final .swf
+
+ctrl A seleciona tudo
+ctrl S salva

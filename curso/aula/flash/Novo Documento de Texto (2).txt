@@ -1,0 +1,7 @@
+biblioteca grafico f8
+ gr_nome do objeto
+
+definir o ponto central
+
+ ctrl t pra trasformar
+ctrl k pra alinhar

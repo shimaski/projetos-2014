@@ -1,0 +1,32 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+	padding: 0px;
+}
+div#geral {
+	height: 600px;
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+	border: 2px solid #36C;
+}
+div#geral div#logo {
+	height: 200px;
+	width: 990px;
+	background-image: url(../imagem/logo.png);
+}
+div#geral div#menu {
+	height: 50px;
+	width: 990px;
+	background-color: #9F0;
+}
+div#geral div#conteudo {
+	height: 300px;
+	width: 990px;
+	background-color: #0CF;
+}
+div#geral div#rodape {
+	background-color: #0F9;
+	height: 50px;
+	width: 990px;
+}

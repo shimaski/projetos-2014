@@ -1,0 +1,104 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Cine carioca</title>
+<meta name="adriel" content="alves">
+<meta name="fotos" content="imagens">
+<meta name="adriel" content="adriel889alves@gmail.com">
+<meta http-equiv="content-language" content="pt-br"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="cine, cinema, carioca, lançamentos,rio de janeiro, marvel, 2015,programação,seção, horários,serviços,conatos">
+<link href="../base/css/estilo.css" rel="stylesheet" type="text/css" />
+<link href="../base/css/menu.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="../base/js/jquery.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+		$('.myMenu > li').bind('mouseover', openSubMenu);
+		$('.myMenu > li').bind('mouseout', closeSubMenu);
+		
+		function openSubMenu() {
+			$(this).find('ul').css('visibility', 'visible');	
+		};
+		
+		function closeSubMenu() {
+			$(this).find('ul').css('visibility', 'hidden');	
+		};				   
+});
+</script>
+</head>
+<body>
+<div id="geral">
+  <div id="topo">
+    <div id="logo">
+      </div>
+    <div id="banner">
+    </div>
+    <div id="menu">
+      <ul class="myMenu">
+	<li><a href="../index.html">Home</a>
+    <li><a href="../institucional/programacao.html">programação</a>
+    	<ul>
+        	<li><a href="../institucional/institucional.html">horários</a></li>
+            <li><a href="../institucional/historias.html">Cine carioca</a></li>
+        </ul></li>
+    <li><a href="contatos.html">contatos</a>
+    <li><a href="../servicos/servicos.html">serviços</a>
+    	<ul>
+        <li><a href="../servicos/servicos2.html">servicos1</a></li>
+            <li><a href="../servicos/servicos3.html">servicos2</a></li>
+   	  </ul>
+      </li>
+</ul>
+   </div>
+  </div>
+  <div id="conteudo">
+    <div id="lateralE">
+      <h4>Lançamentos:</h4>
+      <ul>
+        <li><img src="../base/imagnes/cartaz/Sem título-4.png" width="175" height="311" /></li>
+        <li><img src="../base/imagnes/cartaz/cartaz2-4.png" width="182" height="289" /></li>
+        <li><img src="../base/imagnes/cartaz/cartaz3.png" width="174" height="293" /></li>
+      </ul>
+    </div>
+    <div id="texto">
+    <div id="texto2">
+      <p>Contatos</p>
+      <form id="contato" name="contato" method="post" action="">
+        <p>
+          <label for="nome">Nome:</label>
+          <input type="text" name="Nome" id="nome" />
+        </p>
+        <p>
+          <label for="email">E-mail:</label>
+          <input type="text" name="E-mail" id="email" />
+        </p>
+        <p>
+          <label for="comentarios">Comentarios</label>
+          <textarea name="Comentarios" id="comentarios" cols="45" rows="5"></textarea>
+        </p>
+    <input type="submit" name="enviar" id="enviar" value="Enviar" />
+      </form>
+    </div>
+    </div><div id="lateralD">
+      <ul>
+        <li><a href="http://fb.com"><img src="../base/imagnes/iconefacebook.png" width="94" height="93" /></a></li>
+        <li><a href="http://www.bloguer.com.br"><img src="../base/imagnes/bloguer.png" width="103" height="93" /></a></li>
+      </ul>
+      <ul>
+        <li><a href="http://instagram.com"><img src="../base/imagnes/iconeinsta.png" width="90" height="90" /></a></li>
+        <li><a href="http://twitter.com"><img src="../base/imagnes/iconetwitter.png" width="90" height="90" /></a><br />
+        </li>
+      </ul>
+      <P>Em breve:</P>
+<p><img src="../base/imagnes/cartaz/2015.4.png" width="180" height="284" />    </p>
+      <p><img src="../base/imagnes/2015.png" width="200" height="300" /></p>
+    </div>
+  </div>
+  <div id="rodape">
+    <p>av.capitao resende 206-RJ </p>
+    <p><a href="contatos.html">email: adriel889alves@gmail.com</a>  </p>
+ </div>
+</div>
+</body>
+</html>

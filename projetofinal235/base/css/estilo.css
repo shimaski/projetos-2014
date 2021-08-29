@@ -1,0 +1,210 @@
+@charset "utf-8";
+
+@font-face {
+	font-family: 'Conv_TechnoWanker';
+	src: url('../base/fonts/TechnoWanker.eot');
+	src: local('☺'), url('../base/fonts/TechnoWanker.woff') format('woff'), url('../base/fonts/TechnoWanker.ttf') format('truetype'), url('../base/fonts/TechnoWanker.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+body {
+	background-image: url(../imagnes/024618505_prevstill.jpeg);
+
+
+
+}
+
+img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+
+
+
+
+div#geral {
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+div#geral div#topo {
+	height: 200px;
+	width: 990px;
+}
+div#geral div#topo div#logo {
+	float: left;
+	height: 200px;
+	width: 250px;
+	background-color: #039;
+	background-image: url(../imagnes/logo.jpg);
+}
+div#geral div#topo div#logo h1 {
+	display: none;
+	overflow: hidden;
+	height: 0px;
+	width: 0px;
+}
+
+div#geral div#topo div#banner {
+	float: left;
+	height: 200px;
+	width: 740px;
+	background-color: #060;
+	background-image: url(../imagnes/bannercine.jpg);
+}
+div#geral  div#topo div#menu  {
+	height: 60px;
+	width: 990px;
+	color: #FFF;
+	float: left;
+	background-image: url(../imagnes/menu.jpg);
+}
+div#geral div#topo div#menu ul {
+	list-style-type: none;
+	margin-left: 45px;
+	color: #FFF;
+	font-size: 18px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+div#geral div#conteudo div#lateralE {
+	float: left;
+	width: 200px;
+	background-repeat: repeat;
+	height: 990px;
+	background-image: url(../imagnes/laterald%20.jpg);
+	list-style-type: none;
+}
+
+div#geral div#conteudo div#lateralE ul li {
+	padding: 2px;
+}
+div#geral div#conteudo div#lateralE ul {
+	list-style-type: none;
+	float: left;
+	text-align: center;
+
+}
+div#geral div#conteudo div#lateralE h4 {
+	color: #FFF;
+	font-family: Conv_TechnoWanker;
+	font-size: 14px;
+}
+
+
+div#geral div#conteudo div#texto {
+	float: left;
+	width: 590px;
+	background-color: #670002;
+	height: 990px;
+}
+div#geral div#conteudo div#texto h4 {
+	font-family: Conv_TechnoWanker;
+	background-color: #FFF;
+	font-size: 16px;
+	color: #039;
+}
+div#geral div#conteudo div#texto p {
+	font-family: Conv_TechnoWanker;
+	color: #FFF;
+	font-size: 16px;
+	text-align: justify;
+	font-style: italic;
+	padding: 5px;
+	margin: 5px;
+}
+div#geral div#conteudo div#texto ul {
+	float: left;
+	list-style-type: none;
+	text-align: center;
+	margin-left: 50px;
+	padding: 10px;
+}
+div#geral div#conteudo div#texto ul li {
+	float: left;
+	width: 200px;
+	text-align: center;
+	margin-top: 5px;
+	margin-left: 20px;
+	padding-top: 5px;
+	margin-right: 30px;
+	list-style-type: none;
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+
+
+div#geral div#conteudo div#lateralD {
+	float: left;
+	width: 200px;
+	background-image: url(../imagnes/laterald%20.jpg);
+	height: 990px;
+	list-style-type: none;
+}
+div#geral div#conteudo div#lateralD p {
+	font-family: Conv_TechnoWanker;
+	font-size: 14px;
+	color: #FFF;
+}
+
+div#geral div#conteudo div#lateralD ul {
+	float: left;
+	margin-top: 5px;
+	margin-bottom: 1px;
+	list-style-type: none;
+	width: 200px;
+}
+div#geral div#conteudo div#lateralD ul li {
+	float: left;
+	padding-top: 1px;
+	text-align: center;
+	width: 90px;
+	list-style-type: none;
+}
+
+div#geral div#rodape {
+	height: 50px;
+	width: 990px;
+	text-align: center;
+	background-image: url(../imagnes/rodape.jpg);
+	float: left;
+}
+div#geral div#rodape p {
+	text-align: center;
+	font-size: 12px;
+	color: #FFF;
+}
+#geral #conteudo #texto #texto2 #contato {
+	background-color: #580201;
+	text-align: center;
+	height: 300px;
+	width: 570px;
+	float: left;
+	padding: 5px;
+	margin: 5px;
+}
+#geral #conteudo #texto #texto2 #contato label {
+	width: 500px;
+	float: left;
+	padding: 5px;
+}
+#geral #conteudo #texto #texto2 #contato #nome, #email {
+	width: 400px;
+	height: 25px;
+	float: left;
+	margin-bottom: 10px;
+}
+#geral #conteudo #texto #texto2 #contato p #comentarios {
+	width: 550px;
+	height: 50px;
+	float: left;
+}

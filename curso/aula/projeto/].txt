@@ -1,0 +1,16 @@
+projeto
+
+&base
+&css
+&estilo.css
+&modelo
+&imagnes
+&modelo
+&modelo.html
+
+CSS-
+
+*serve para retirar as margens e os espaços internos de todos
+ os componentes
+div#geral
+ define o tamanho  da pagina e centraliza o site

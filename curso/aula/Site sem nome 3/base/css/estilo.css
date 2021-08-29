@@ -1,0 +1,59 @@
+@charset "utf-8";
+* {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	margin: 0px;
+	padding: 0px;
+	font-size: 16px;
+	color: #099;
+}
+div#geral {
+	margin-right: auto;
+	margin-left: auto;
+	width: 990px;
+}
+div#geral div#conteudo {
+
+}
+div#geral div#conteudo div#barraE {
+	float: left;
+	width: 200px;
+}
+div#geral div#conteudo div#texto {
+	float: left;
+	width: 590px;
+}
+div#geral div#conteudo div#barraD {
+	float: left;
+	width: 200px;
+}
+div#geral div#rodape {
+	height: 80px;
+	width: 990px;
+	float: left;
+}
+
+
+
+
+
+div#geral div#topo {
+	height: 260px;
+	width: 990px;
+}
+div#geral div#topo div#logo {
+	height: 200px;
+	width: 690px;
+	float: left;
+}
+div#geral div#topo div#baner {
+	height: 200px;
+	width: 300px;
+	float: left;
+}
+div#geral div#topo div#menu {
+	float: left;
+	height: 60px;
+	width: 990px;
+}
+#geral {
+}

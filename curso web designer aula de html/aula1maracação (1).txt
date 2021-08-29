@@ -1,0 +1,35 @@
+<html>
+
+<head>
+<title>Aula de XHTML-marcações</title>
+ </head>
+
+<body text="#0000cc" bgcolor="#f0f0f0">
+<b>Negrito</b>
+<strong> mais usa por causa da relevancia nos buscadores, mas é igual ao negrito</strong><br />
+<i>Italico</i><br />
+<em> mesma coisa que o italico </em><br< />
+<u>sublinhando</u><br />
+H<sub>2</sub>0<br />
+km<sup>2</sup><br />
+<center>centraliza alguma coisa </center>
+
+<p>O empenho em <u>analisar o entendimento das metas propostas nos obriga à análise do orçamento setorial</u>. Assim mesmo, a complexidade dos estudos efetuados estimula a padronização dos índices pretendidos. Caros amigos, a contínua expansão de nossa atividade talvez venha a ressaltar a relatividade das condições financeiras e administrativas exigidas.
+
+          <p>No entanto, <em><strong>não podemos esquecer que a adoção de políticas descentralizadoras</strong></em> auxilia a preparação e a composição dos níveis de motivação departamental. No mundo atual, a consulta aos diversos militantes oferece uma interessante oportunidade para verificação das posturas dos órgãos dirigentes com relação às suas atribuições. A prática cotidiana prova que o desenvolvimento contínuo de distintas formas de atuação maximiza as possibilidades por conta dos relacionamentos verticais entre as hierarquias.</p>
+
+          <p>Acima de tudo, <i><em><strong>é fundamental ressaltar que a constante divulgação</strong></em></i> das informações facilita a criação de todos os recursos funcionais envolvidos. As experiências acumuladas demonstram que o surgimento do comércio virtual obstaculiza a apreciação da importância do retorno esperado a longo prazo. Do mesmo modo, a necessidade de renovação processual cumpre um papel essencial na formulação do remanejamento dos quadros funcionais. O incentivo ao avanço tecnológico, assim como o comprometimento entre as equipes promove a alavancagem da gestão inovadora da qual fazemos parte.</p>
+
+          <p>Podemos já vislumbrar o modo pelo qual o acompanhamento das preferências de consumo causa impacto indireto na reavaliação dos paradigmas corporativos. É importante questionar o quanto a competitividade nas transações comerciais possibilita uma melhor visão global das direções preferenciais no sentido do progresso. Todas estas questões, devidamente ponderadas, levantam dúvidas sobre se o fenômeno da Internet ainda não demonstrou convincentemente que vai participar na mudança do processo de comunicação como um todo. Por conseguinte, a determinação clara de objetivos acarreta um processo de reformulação e modernização dos métodos utilizados na avaliação de resultados.</p>
+
+         <p>Pensando mais a longo prazo, a estrutura atual da organização pode nos levar a considerar a reestruturação das novas proposições. Gostaria de enfatizar que a mobilidade dos capitais internacionais desafia a capacidade de equalização do impacto na agilidade decisória. Todavia, a execução dos pontos do programa exige a precisão e a definição das formas de ação. A nível organizacional, o julgamento imparcial das eventualidades é uma das consequências dos modos de operação convencionais.</p>
+
+         <p>Por outro lado, o consenso sobre a necessidade de qualificação representa uma abertura para a melhoria do fluxo de informações. Percebemos, cada vez mais, que o novo modelo estrutural aqui preconizado faz parte de um processo de gerenciamento dos procedimentos normalmente adotados. Nunca é demais lembrar o peso e o significado destes problemas, uma vez que a revolução dos costumes afeta positivamente a correta previsão dos conhecimentos estratégicos para atingir a excelência. Desta maneira, a consolidação das estruturas agrega valor ao estabelecimento das regras de conduta normativas.</p>
+
+          <p>Neste sentido, o aumento do diálogo entre os diferentes setores produtivos garante a contribuição de um grupo importante na determinação do levantamento das variáveis envolvidas. Evidentemente, o início da atividade geral de formação de atitudes aponta para a melhoria do sistema de formação de quadros que corresponde às necessidades. O cuidado em identificar pontos críticos no desafiador cenário globalizado deve passar por modificações independentemente de alternativas às soluções ortodoxas.</p>
+
+</body>
+</html>
+
+
+ <i> <em> no final  sempre é o inverso do primeiro </em></i>

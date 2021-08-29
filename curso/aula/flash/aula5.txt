@@ -1,0 +1,14 @@
+ f8 transforma o objeto em gráfico
+ pra fazer movimentos malucos, criar outra camada e depois  usar o lapis para desenhar o caminho do objeto
+
+
+ tera e lua
+criar a terra e no frema 50 da f5 
+ inserir uma noca layer
+desenhar a lua e coverter em objeto grafico
+B>D em cima da layer da lua
+ adicionar gui de movimento 
+desenhar a fui de movimento
+ desenhar  na layer  guia com a ferramenta oval" bamboler" p cruzar a lua sem fundo!
+selecionare q pedaço de linha e apague
+ na frame 1 da lua possicone a lua  ctrl k

@@ -1,0 +1,31 @@
+<html> 
+      <head>
+           <title>Primeira Aula de XHTML</title>
+           </head>
+             <body text="black"
+bgcolor="#00FFFF">
+            <h2>Aula de XHTML</h2>
+           <hr size="10" width="80%"align="rigth" color="darkgreen"/>  
+          
+           <p aling="right">Estou  tendo aula de XHML, pois ela é necessária para construção de páginas.</p>
+            <p align="center">O XHTML vem da junção do html com a liguagem XML, com esatá junção fica  dfefinido  que toda tag fechamento  e todo atributo tem também fechamento.</p>
+            <p align="left">O XHTMl não tem muitos recursos de formção , para ter muito mas opções de formatação é necessário utilizar a folha de estilo (cSS).</p>
+            <P align="justfy">O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa.
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa.
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa.
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa.
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa.
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa.
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa.
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa.
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa.
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa
+O HTML foi criado para ser  uma linguagem de marcação de Hiper texto sem formatação complexa.
+                 
+                 
+                 
+               
+      </body>
+        </html>     

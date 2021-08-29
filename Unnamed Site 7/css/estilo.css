@@ -1,0 +1,40 @@
+@charset "utf-8";
+* {
+}
+div#geral {
+}
+div#geral div#topo {
+	width: 990px;
+	height: 200px;
+}
+div#geral div#topo div#logo {
+	width: 990px;
+	height: 200px;
+	float: left;
+	background-color: #0C0;
+}
+div#geral div#topo div#banner {
+	width: 400px;
+	float: left;
+	height: 250px;
+}
+div#geral div#topo div#menu {
+}
+
+
+
+
+
+div#geral div#conteudo {
+}
+div#geral div#conteudo div#barraD {
+}
+div#geral div#conteudo div#texto {
+}
+div#geral div#conteudo div#barra esq {
+}
+
+
+
+div#geral div#rodape {
+}

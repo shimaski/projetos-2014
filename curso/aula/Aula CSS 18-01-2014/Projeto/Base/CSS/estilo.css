@@ -1,0 +1,111 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 14px;
+}
+div#geral {
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+}
+div#geral div#topo {
+	height: 200px;
+	width: 990px;
+	background-image: url(../imagens/Logo.png);
+	background-repeat: no-repeat;
+}
+div#geral div#topo div#logo {
+	height: 200px;
+	width: 750px;
+	float: left;
+}
+div#geral div#topo div#logo h1 {
+	display: none;
+	visibility: hidden;
+	height: 0px;
+	width: 0px;
+}
+div#geral div#topo div#banner {
+	width: 240px;
+	float: left;
+	height: 200px;
+}
+div#geral div#conteudo {
+	background-image: url(../imagens/fundo_conteudo.jpg);
+	width: 990px;
+	float: left;
+}
+div#geral div#conteudo div#menu {
+	width: 200px;
+	float: left;
+}
+div#geral div#conteudo div#menu ul {
+	list-style-type: none;
+	width: 180px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+div#geral div#conteudo div#menu ul li {
+	background-image: url(../imagens/botao.png);
+	background-repeat: no-repeat;
+	height: 50px;
+	width: 180px;
+	text-align: center;
+	margin-bottom: 20px;
+	padding-top: 10px;
+}
+div#geral div#conteudo div#menu ul li a {
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+	color: #904D00;
+}
+div#geral div#conteudo div#menu ul li a:visited {
+	color: #0F0;
+}
+div#geral div#conteudo div#menu ul li a:hover {
+	color: #F60;
+	text-decoration: underline;
+}
+
+
+
+
+
+div#geral div#conteudo div#texto {
+	width: 790px;
+	float: left;
+	color: #904D00;
+}
+div#geral div#conteudo div#texto h1 {
+	font-size: 18px;
+	color: #904D06;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	margin-left: 30px;
+	text-transform: uppercase;
+}
+div#geral div#conteudo div#texto p {
+	line-height: 20px;
+	color: #904D00;
+	letter-spacing: 1px;
+	text-align: justify;
+	text-indent: 20px;
+	margin-right: 20px;
+	margin-left: 30px;
+	margin-bottom: 25px;
+}
+div#geral div#conteudo div#texto ul, ol {
+	margin-bottom: 25px;
+	margin-left: 60px;
+}
+
+
+
+div#geral div#rodape {
+	width: 990px;
+}

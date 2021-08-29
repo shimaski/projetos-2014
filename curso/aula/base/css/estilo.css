@@ -1,0 +1,80 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+div#geral {
+	width: 990px;
+	margin-right: auto;
+	margin-left: auto;
+}
+div#geral div#topo {
+	height: 200px;
+	width: 990px;
+}
+div#geral div#topo div#logo {
+	float: left;
+	height: 200px;
+	width: 250px;
+	background-color: #039;
+	background-image: url(../imagnes/logo.jpg);
+}
+div#geral div#topo div#logo h1 {
+	display: none;
+	overflow: hidden;
+	height: 0px;
+	width: 0px;
+}
+
+div#geral div#topo div#banner {
+	float: left;
+	height: 200px;
+	width: 740px;
+	background-color: #060;
+	background-image: url(../imagnes/banner.jpg);
+}
+div#geral  div#topo div#menu  {
+	height: 50px;
+	width: 990px;
+	clear: both;
+	background-image: url(../imagnes/menu.jpg);
+	color: #FFF;
+}
+div#geral div#topo div#menu ul {
+	list-style-type: none;
+	width: 900px;
+	margin-left: 45px;
+	color: #FFF;
+}
+div#geral div#topo div#menu ul li {
+	width: 225px;
+	float: left;
+	padding-top: 15px;
+	text-align: center;
+	font-family: "Arial Black", Gadget, sans-serif;
+	color: #FFF;
+}
+
+
+div#geral div#conteudo div#lateralE {
+	float: left;
+	width: 200px;
+}
+div#geral div#conteudo div#texto {
+	float: left;
+	width: 590px;
+}
+div#geral div#conteudo div#lateralD {
+	float: left;
+	width: 200px;
+}
+div#geral div#rodape {
+	clear: both;
+	height: 30px;
+	width: 990px;
+	font-size: 10px;
+	color: #609;
+	text-align: center;
+	font-weight: bold;
+}

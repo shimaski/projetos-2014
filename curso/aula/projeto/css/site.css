@@ -1,0 +1,76 @@
+@charset "utf-8";
+* {
+	margin: 0px;
+	padding: 0px;
+	background-repeat: no-repeat;
+}
+body {
+	background-image: url(../imagens%20editavies/fundo.jpg);
+	background-repeat: repeat;
+}
+
+div#geral {
+	margin-right: auto;
+	margin-left: auto;
+	width: 990px;
+	height: 590px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	color: #FFF;
+
+	
+
+
+
+div#geral div#topo {
+	width: 990px;
+	height: 250px;
+	background-color: #666;
+	text-align: center;
+}
+div#geral div#topo div#logo {
+	width: 590px;
+	float: left;
+	height: 250px;
+	background-image: url(../imagens%20editavies/logo.jpg);
+	background-repeat: no-repeat;
+}
+div#geral div#topo div#menu {
+	float: left;
+	height: 50px;
+	width: 400px;
+	background-image: url(../imagens%20editavies/menu2.jpg);
+	text-align: center;
+}
+div#geral div#topo div#banner {
+	height: 200px;
+	width: 400px;
+	float: left;
+	background-image: url(../imagens%20editavies/banner.jpg);
+}
+div#geral div#conteudo {
+	width: 990px;
+	float: left;
+	background-image: url(../imagens%20editavies/texto.jpg);
+}
+
+div#geral div#conteudo div#texto {
+	width: 790px;
+	float: left;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+
+div#geral div#conteudo div#barrafotos {
+	width: 200px;
+	float: left;
+	background-image: url(../imagens%20editavies/barrafotos.jpg);
+	height: 990px;
+}
+div#geral div#rodape {
+	width: 990px;
+	float: left;
+	background-image: url(../imagens%20editavies/rodape.jpg);
+	height: 60px;
+	text-align: center;
+}
